@@ -69,6 +69,14 @@ and will also provide you with a series of advices and mistakes I made.
       If you don't buy an HDCP 2.2 HDMI splitter like the one I linked above, 
       you'll likely end up with a DVD refusing to launch or the Error 39 on Disney+ (Netflix is ok though !)
     
+### Some advices:
+- Reduce the resolution of your capture card.
+    - The capture card listed can handle signals up to 1920x1080 (1080p). 
+      This works but is way overkill. 
+      You can reduce the resolution to 800x600 in the configuration of hyperion. 
+      This will reduce the computing power needed and will reduce 
+      the delay between the image and the color of the strip.
+
 ## Description of my components:
 At home I have:
 - A Nintendo Switch
@@ -91,6 +99,13 @@ The Splitter (out1) goes to my TV
 
 The Out2 goes in the HDMI Capture card plugged in the PI.
 
+
+# Soon
+I plan on designing a 3D printed enclosure (with a cut down wine crate). 
+When this will be done and working, 
+I'll update this readme with a link to download :)
+
+# Any questions?
 If you have any questions, feel free to open an issue. 
 I will gladly answer to you as soon as possible 
 and maybe improve this "How To" accordingly :-)
