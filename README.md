@@ -51,6 +51,7 @@ and will also provide you with a series of advices and mistakes I made.
     
 - [MadeByMiro's 3-Part series](https://www.youtube.com/watch?v=EjD2ffiNXco)
     - I found this video very late in my researchs but this tutorial ends up being the closest of what I've done.
+- You might also like: https://www.youtube.com/watch?v=f4Nie5uSMOE
 ### Mistakes you don't want to reproduce:
 - Placing your LED strip around the case of the TV instead of around the screen.
     - The first mistake I made is when placing the LED strip. 
